@@ -1,0 +1,4 @@
+[
+  { "name": "Laptop", "category": "Electronics", "price": 1000 },
+  { "name": "TV", "category": "Electronics", "price": 15000 }
+]
